@@ -6,6 +6,6 @@
 
 3) Como fez: eu fiz acompanhando as aulas gravadas.
 
-4) O que aprendeu e o que tem dificuldade: entendi a estrutura de um código java, aprendi a criar uma classe java e os métodos, e a fazer a entrada de dados utilizando o Scanner.
+4) O que aprendeu e o que tem dificuldade: entendi a estrutura de um código java, aprendi a criar uma classe java e os métodos, e a fazer a entrada de dados utilizando o Scanner (demorei foi muito para entender a lógica do scanner, porque não tava funcionando direito, mas deu certo)
 
 5) Quanto tempo levou: umas 4 horas contando, a leitura, revisão das aulas e programação.
