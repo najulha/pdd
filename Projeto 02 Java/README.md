@@ -1,6 +1,6 @@
 # Relatório
 
-1) O que fez: baseado no código do calango, criei um bebê que se chama biel, adicionando atributos como fome, sono, força e energia, e métodos como chorar, mamar, dormir e engatinhar.
+1) O que fez: baseado no código do calango, criei um bebê que se chama biel, adicionei atributos como fome, sono, força e energia, e métodos como chorar, mamar, dormir e engatinhar.
 
 2) Com quem fez: fiz sozinha, mas acompanhando as aulas gravadas.
 
