@@ -1,6 +1,6 @@
 # Relatório
 
-1) O que fez: fiz um projeto de lapiseira, que recebe alguns métodos como inserir um grafite (passando o calibre, durezae o tamanho), remover o grafite caso esteja carregada e o métdo rabiscar, que dependendo da dureza do grafite o tamanho do grafite vai diminuindo menos ou mais.
+1) O que fez: fiz um projeto de lapiseira, que recebe alguns métodos como inserir um grafite (passando o calibre, dureza e o tamanho), remover o grafite caso esteja carregada e o método rabiscar, que dependendo da dureza do grafite o tamanho do grafite vai diminuindo menos ou mais.
 
 2) Com quem fez: fiz sozinha. tive dificuldades em fazer o projeto original, com o método desenhar, mas substitui ele pelo médodo rabiscar. tive dificuldades também em construir uma main interativa, mas acho que deu certo.
 
