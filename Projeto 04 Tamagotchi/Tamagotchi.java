@@ -102,7 +102,7 @@ public class Tamagotchi {
         return "E:" + this.getEnergia() + "/" + this.getEnergiaMax() + " S:" + this.getSaciedade() + "/" + this.getSaciedadeMax() + " L:" + this.getLimpeza() + "/" + this.getLimpezaMax() + " D:" + this.getDiamantes() + " I:" + this.getIdade();
     }
 
-    boolean estaVivo(){
+    public boolean estaVivo(){
         if(!vivo){
             System.out.println("erro: seu bichinho está morto!");
             return false;
